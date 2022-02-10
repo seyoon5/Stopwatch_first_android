@@ -38,4 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
         }
     }
+    // 오오 !!! 깃 수정
+    // 오늘도 화이팅!
 }
